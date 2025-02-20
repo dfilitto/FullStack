@@ -44,7 +44,7 @@ Para que nossos encontros sejam ainda mais proveitosos, é essencial que você s
 - XAMPP: https://www.apachefriends.org/pt_br/index.html
 - Figma: https://www.figma.com/
 
-### 2 - Criando minha apresentação na web
+### 2 - Construindo meu portifólio
 
 Agora que sua estação de trabalho está pronta, podemos seguir para a próxima etapa da nossa jornada. E essa é uma das mais importantes! Nesta fase, vamos trabalhar para que empresas e clientes possam encontrar você na web e conhecer o seu trabalho. Afinal, não basta apenas desenvolver bons projetos—é preciso mostrá-los ao mundo!
 
