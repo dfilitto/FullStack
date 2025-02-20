@@ -53,6 +53,7 @@ Para isso, você deverá criar um perfil atraente no LinkedIn e no GitHub. O Lin
 Para ajudá-lo nessa etapa, disponibilizarei materiais e vídeos com orientações para criar perfis profissionais e bem estruturados. Siga as dicas, capriche na apresentação e prepare-se para dar os primeiros passos na construção da sua presença digital! 🚀
 
 - Personalizando seu perfíl no Github: https://youtu.be/MinUZAAAV48?si=oXqsI92JFkp1nSpU
+- Gria prático (criando um read.me para seu perfíl): https://dfilitto.blog.br/dicas-tutoriais/guia-pratico-criando-um-readme-para-seu-perfil-do-github/
 - Criando a sua página pessoal no Github: https://youtu.be/0mUHRiMXRRQ?si=ERXlUH_Tki4v8oxA
 - Como utilizar o github para controlar o versionamento de seus projetos: https://www.youtube.com/playlist?list=PLfvOpw8k80WqaD61vXAlaL5aNg6MHnR2s
 
