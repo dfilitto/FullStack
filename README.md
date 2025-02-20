@@ -75,7 +75,11 @@ Essa empresa será o nosso projeto, e você será responsável por conduzir toda
 
 Esse será um passo importante na sua jornada como desenvolvedor full stack. Para ajudá-lo nessa etapa, disponibilizarei materiais e vídeos com orientações que o auxiliarão no processo da contrução de toda a documentação. Vamos colocar a mão na massa e transformar ideias em soluções reais! 🚀
 
-- Análise de requisitos: https://gamma.app/docs/Analise-de-Requisitos-para-Desenvolvimento-de-Sites-h4cdni72u814r97
-- Exemplo de perguntas: 
+- Análise de requisitos:
+  -  Apresentação: https://gamma.app/docs/Analise-de-Requisitos-para-Desenvolvimento-de-Sites-h4cdni72u814r97
+  -  exemplo de perguntas: https://github.com/dfilitto/FullStack/blob/main/3%20-%20Em%20busca%20do%20nosso%20primeiro%20cliente/Dicas%20sobre%20a%20levantamento%20de%20requisitos.docx
 - Criando protótipos com o figma:
-- Construindo a documentado do projeto:
+  - Site uma página: https://www.figma.com/design/amXmIlvkS2rgjILwGWypsC/HTML-e-CSS---Exemplo-1?t=eKVhoA9FWtiA3OzS-1
+  - Site organizacional: https://www.figma.com/design/muqSbdzus2tfGLphaZDKJE/HTML-e-CSS---Exemplo-5?node-id=0-1&t=NCCdT96Gc623iWGz-1
+  - Site com bootstrap: https://www.figma.com/design/UlygfjCOL30cdbC563mG0M/Meteora---Projeto-Bootstrap-5?node-id=2390-2248&t=UffvO15QDULOWt0R-1
+- Construindo a documentado do projeto: Daqui a pouco...
