@@ -58,3 +58,24 @@ Para ajudá-lo nessa etapa, disponibilizarei materiais e vídeos com orientaçõ
 - Como utilizar o github para controlar o versionamento de seus projetos: https://www.youtube.com/playlist?list=PLfvOpw8k80WqaD61vXAlaL5aNg6MHnR2s
 
 Agora que você já criou seu perfil no GitHub, que tal compartilhá-lo em suas redes sociais? Assim, você pode começar a divulgar seu trabalho e nos marcar para que possamos ver como ficou. Estamos ansiosos para acompanhar sua evolução e ver seus primeiros passos nessa jornada! 🚀
+
+### 3 - Em busca do nosso primeiro cliente
+
+Agora que criamos nossos perfis nas redes sociais, é hora de dar o próximo passo: encontrar nosso primeiro cliente!
+
+Nesta etapa, você precisará encontrar uma empresa interessada em criar um site organizacional. Esse tipo de site tem como objetivo apresentar a empresa na internet, destacando seu ramo de atuação, seus serviços e formas de contato com os clientes.
+
+Essa empresa será o nosso projeto, e você será responsável por conduzir toda a fase inicial do desenvolvimento. Para isso, deverá:
+
+✅ Realizar a análise de requisitos, entendendo as necessidades da empresa e o que o site deve conter.
+
+✅ Criar um protótipo no Figma, esboçando a estrutura e o design do site antes da implementação.
+
+✅ Documentar o projeto, detalhando as funcionalidades e o escopo do que será desenvolvido.
+
+Esse será um passo importante na sua jornada como desenvolvedor full stack. Para ajudá-lo nessa etapa, disponibilizarei materiais e vídeos com orientações que o auxiliarão no processo da contrução de toda a documentação. Vamos colocar a mão na massa e transformar ideias em soluções reais! 🚀
+
+- Análise de requisitos: https://gamma.app/docs/Analise-de-Requisitos-para-Desenvolvimento-de-Sites-h4cdni72u814r97
+- Exemplo de perguntas: 
+- Criando protótipos com o figma:
+- Construindo a documentado do projeto:
